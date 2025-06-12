@@ -96,7 +96,6 @@ minishell/
 ---
 
 This structure keeps the code organized and modular, making it easier to maintain and extend.
-``` this part not in the readme form i can not out put to the readme
 ### `.valgrindrc`
 
 The `.valgrindrc` file is a configuration file for Valgrind, a tool used to detect memory leaks and memory errors in your program.
