@@ -31,11 +31,6 @@ Through this project, I learned:
 ## File Descriptions
 Below is an overview of the main folders and files in this project, along with a brief description of their purpose:
 ```markdown
-## Project Structure
-
-Below is an overview of the main folders and files in this project, along with a brief description of their purpose:
-
-```plaintext
 minishell/
 │
 ├── .valgrindrc         # Valgrind configuration for memory leak checking
